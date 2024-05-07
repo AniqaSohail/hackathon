@@ -1,0 +1,97 @@
+body{
+   
+    background-image: linear-gradient(90deg, rgba(193, 222, 232, 1), rgba(251, 217, 185, 1));
+    background-repeat: no-repeat;
+   background-image: cover;
+   height: 100vh;
+}
+
+/* navbar-start */
+
+
+
+
+.navbar a{color: black;
+  /* float: right; */
+     align-items: center;
+     display: block;
+     padding-bottom: 10%;
+     justify-content: center;
+}
+/* navbar-end */
+
+/* paragraph-start */
+h1{
+    padding-top: 14%;
+    
+}
+.let{
+    color:darkmagenta;
+    
+  
+    
+}
+.para{
+    color: black;
+    ;
+}  
+/* para-end */
+/* nav-btn */
+.btn{color: black;
+
+}
+/* para */
+.free{color: plum;
+  padding-top: -40;
+}
+/* para-button */
+button {
+    padding: 1.3em 3em; 
+    padding-right: 4%;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color:white;
+    /* background-color :rgba(17, 0, 128, 0.527); */
+    border: none;
+    border-radius: 10%;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    background-image: linear-gradient(90deg, rgba(194, 193, 232, 0.812), rgba(214, 185, 251, 0.409));
+  }
+  
+  button:hover {
+    background-color: white;
+    box-shadow: 0px 15px 20px rgba(147, 46, 229, 0.271);
+    color: black;
+    transform: translateY(-7px);
+    border-radius: 9%;
+  }
+  
+  button:active {
+    transform: translateY(-1px);
+  }
+
+   .main{
+    display: flex;
+    margin: 0%;
+    padding: 1%;
+  }
+/* paragraph-end */
+/* image */
+.img{
+  float: right;
+  width: 39%;
+  padding-top: 100px;
+}
+/* paragraph */
+ .poc-cen{
+   position: absolute;
+  left: 0%;
+  padding-top: -14%;
+ margin-left: 1%; 
+  text-align: center;
+  background-image: linear-gradient(90deg, rgba(193, 222, 232, 1), rgba(251, 217, 185, 1));
+ }
